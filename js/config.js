@@ -65,7 +65,7 @@ const API_SITES = {
         name: '卧龙资源',
     }, 
     hwba: {
-        api: 'https://cjhwba.com/api.php/provide/vod',
+        api: 'https://hsckzy.vip',
         name: '华为吧资源',
     },
     jisu: {
